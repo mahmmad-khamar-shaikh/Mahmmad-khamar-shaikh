@@ -1,7 +1,7 @@
 Hi 👋 My name is Mahmmad Khamar Shaikh
 ======================================
 
-A Full stack  Java(spring boot), .Net(asp.net / web API) and Javascript/Typescript (Angular/HTML/CSS) developer
+A Full stack  Java(spring boot), Javascript/Typescript (Angular/HTML/CSS) and .Net(asp.net/web API) developer
 ---------------------------------------------
 
 I have been developing software since 20 years. It all started with FoxPro as hobby project. My professional journey with software started with VB.net to C#(ASP.Net) to Angular to Java(spring boot) and NestJs. Well versed with RDBMS like SQL Server, PostgreSQL and Document DB like Firebase and MongoDB.
