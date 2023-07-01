@@ -10,7 +10,7 @@ I have been developing software since 20 years. It all started with FoxPro as ho
 * 🖥️  See my portfolio at [https://github.com/mahmmad-khamar-shaikh/Tlib](http://github.com/mahmmad-khamar-shaikh/Tlib)
 * 🚀  I'm currently working on [Tzlib](http://github.com/mahmmad-khamar-shaikh/Tlib)
 * 🧠  I'm learning ElectronJS
-* 🤝  I'm open to collaborating on Any Typescript or .Net project
+* 🤝  I'm open to collaborate on Any Typescript or .Net project
 
 <a href="https://www.twitter.com/khamarmahmmad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/khamarmahmmad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
