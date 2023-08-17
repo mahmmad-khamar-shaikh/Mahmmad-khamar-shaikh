@@ -7,7 +7,7 @@ A Full stack  Java(spring boot), Javascript/Typescript (Angular/HTML/CSS) and .N
 I have been developing software since 20 years. It all started with FoxPro as hobby project. My professional journey with software started with VB.net to C#(ASP.Net) to Angular to Java(spring boot) and NestJs. Well versed with RDBMS like SQL Server, MySQL and Document DB like Firebase, MongoDB.
 
 * 🌍  I'm based in Pune, India
-* 🚀  Online [Resume](https://mahmmad-khamar-shaikh.github.io/Resume/)
+* 🚀  Online <a href="https://mahmmad-khamar-shaikh.github.io/Resume/" target="_blank">Resume</a>
 
 * 🖥️  See my portfolio at [https://github.com/mahmmad-khamar-shaikh/Tlib](http://github.com/mahmmad-khamar-shaikh/Tlib)
 * 🧠  Transitioning to Spring boot.
