@@ -9,7 +9,8 @@ I have been developing software since 20 years. It all started with FoxPro as ho
 * 🌍  I'm based in Pune, India
 * 🚀  Online <a href="https://mahmmad-khamar-shaikh.github.io/Resume/" target="_blank">Resume</a>
 
-* 🖥️  See my blog at <a href="https://zaynsys.blogspot.com/" target="_blank">Technically Speaking</a>
+* 🖥️  See my Technical blog at <a href="https://zaynsys.blogspot.com/" target="_blank">Technically Speaking</a>
+* 🖥️  See my blog at <a href="https://wisemindjourney.blogspot.com//" target="_blank">Wise Mind Journey</a>
 
 * 🧠  Transitioning to Spring boot.
 * 🤝  I'm open to collaborate on any Node and Java project
